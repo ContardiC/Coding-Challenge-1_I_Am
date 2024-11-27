@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">I Am</string>
+    <string name="text_label">I Am!</string>
+    <string name="content_description">A piece of Coal</string>
+</resources>
